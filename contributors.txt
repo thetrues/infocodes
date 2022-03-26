@@ -1,0 +1,20 @@
+Samuel Abdallah
+    skills
+        - Java
+        - Flutter
+        - Kotline
+        - PHP
+        - C Sharp
+
+Adilu Khalid
+    skills
+        - Java (Play framework)
+        - Kotline
+        - Javascript ( NodeJs, ReactJs, Angular, Vue )
+        - PHP (laravel)
+        - Python (Django, Flask)
+ 
+ Goodluck Mushi
+    skills  
+       - Python
+       - java
